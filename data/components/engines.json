@@ -1,0 +1,58 @@
+[
+  {
+    "id": "audi-rs3-8v-367",
+    "label": "2.5 TFSI, 367 PS (RS3 8V, 2015-2016)",
+    "powerKW": { "value": 270, "unit": "kW", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 465, "unit": "Nm", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7000,
+    "idleRPM": 900
+  },
+  {
+    "id": "audi-rs3-8vfl-400",
+    "label": "2.5 TFSI, 400 PS (RS3 8V facelift, 2017-2021)",
+    "powerKW": { "value": 294, "unit": "kW", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 480, "unit": "Nm", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7000,
+    "idleRPM": 900
+  },
+  {
+    "id": "audi-rs3-8y-400",
+    "label": "2.5 TFSI, 400 PS (RS3 8Y, 2021-)",
+    "powerKW": { "value": 294, "unit": "kW", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 500, "unit": "Nm", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7000,
+    "idleRPM": 900
+  },
+  {
+    "id": "amg-m177-63s",
+    "label": "M177, 63 S 510 PS (GLC 63 S, X253)",
+    "powerKW": { "value": 375, "unit": "kW", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 700, "unit": "Nm", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7000,
+    "idleRPM": 800
+  },
+  {
+    "id": "amg-m177-63",
+    "label": "M177, 63 476 PS (GLC 63, X253)",
+    "powerKW": { "value": 350, "unit": "kW", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 650, "unit": "Nm", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7000,
+    "idleRPM": 800
+  },
+  {
+    "id": "bmw-s58-510",
+    "label": "S58, 510 PS (M3 Competition xDrive G80, 2021-2024)",
+    "powerKW": { "value": 375, "unit": "kW", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 650, "unit": "Nm", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7200,
+    "idleRPM": 800
+  },
+  {
+    "id": "bmw-s58-530",
+    "label": "S58, 530 PS (M3 Competition xDrive G80 LCI, 2024-)",
+    "powerKW": { "value": 390, "unit": "kW", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+    "torqueNm": { "value": 650, "unit": "Nm", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+    "redlineRPM": 7200,
+    "idleRPM": 800
+  }
+]

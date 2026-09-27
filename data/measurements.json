@@ -1,0 +1,69 @@
+[
+  {
+    "modelId": "bmw-m3",
+    "variantId": "g80",
+    "source": "carscoops, sõltumatu GPS-mõõtmine",
+    "date": "2021",
+    "conditions": null,
+    "testMassKg": null,
+    "metric": "0-100 km/h",
+    "value": 3.77,
+    "unit": "s"
+  },
+  {
+    "modelId": "bmw-m3",
+    "variantId": "g80",
+    "source": "carscoops, sõltumatu GPS-mõõtmine",
+    "date": "2021",
+    "conditions": null,
+    "testMassKg": null,
+    "metric": "veerandmiil",
+    "value": 11.5,
+    "unit": "s",
+    "note": "alla 11,5 s"
+  },
+  {
+    "modelId": "bmw-m3",
+    "variantId": "g80",
+    "source": "carscoops, sõltumatu GPS-mõõtmine",
+    "date": "2021",
+    "conditions": null,
+    "testMassKg": null,
+    "metric": "0-200 km/h",
+    "value": 11.86,
+    "unit": "s"
+  },
+  {
+    "modelId": "audi-rs3",
+    "variantId": "rs3-8y",
+    "source": "auto motor und sport",
+    "date": "2021",
+    "conditions": null,
+    "testMassKg": 1580,
+    "metric": "0-100 km/h",
+    "value": 3.7,
+    "unit": "s"
+  },
+  {
+    "modelId": "audi-rs3",
+    "variantId": "rs3-8y",
+    "source": "auto motor und sport",
+    "date": "2021",
+    "conditions": null,
+    "testMassKg": 1580,
+    "metric": "0-160 km/h",
+    "value": 8.5,
+    "unit": "s"
+  },
+  {
+    "modelId": "audi-rs3",
+    "variantId": "rs3-8y",
+    "source": "auto motor und sport",
+    "date": "2021",
+    "conditions": null,
+    "testMassKg": 1580,
+    "metric": "0-200 km/h",
+    "value": 13.7,
+    "unit": "s"
+  }
+]

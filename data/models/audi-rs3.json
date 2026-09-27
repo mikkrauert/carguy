@@ -1,0 +1,120 @@
+{
+  "id": "audi-rs3",
+  "mark": "Audi",
+  "model": "RS3 Sportback",
+  "generations": [
+    {
+      "id": "8v",
+      "label": "8V",
+      "years": "2015-2020",
+      "variants": [
+        {
+          "id": "rs3-8v",
+          "label": "367 PS",
+          "years": "2015-2016",
+          "engineId": "audi-rs3-8v-367",
+          "gearboxId": "audi-rs3-7dct",
+          "finalDriveRatios": {
+            "value": [4.059, 3.450, 3.450, 4.059, 4.059, 3.450, 3.450],
+            "unit": "ratio",
+            "source": "Audi tehnilised lehed (4,059 käikudel 1/4/5/tagurpidi, 3,450 käikudel 2/3/6/7)",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 1595,
+            "unit": "kg",
+            "source": "hinnang, vt docs/ANDMEALLIKAD.md",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.70,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.32,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 280, "unit": "km/h", "source": "Audi tehniline leht (lisapakett)", "confidence": "official", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 4.3, "unit": "s", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": "Mass hinnanguline."
+        },
+        {
+          "id": "rs3-8vfl",
+          "label": "400 PS facelift",
+          "years": "2017-2021",
+          "engineId": "audi-rs3-8vfl-400",
+          "gearboxId": "audi-rs3-7dct",
+          "finalDriveRatios": {
+            "value": [4.059, 3.450, 3.450, 4.059, 4.059, 3.450, 3.450],
+            "unit": "ratio",
+            "source": "Audi tehnilised lehed (4,059 käikudel 1/4/5/tagurpidi, 3,450 käikudel 2/3/6/7)",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 1585,
+            "unit": "kg",
+            "source": "zeperfs, ekraanipilt 14.08.2024 (EU tühimass); algallikat ei kontrollitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.70,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.32,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 280, "unit": "km/h", "source": "Audi tehniline leht (lisapakett)", "confidence": "official", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 4.1, "unit": "s", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "8y",
+      "label": "8Y",
+      "years": "2021-",
+      "variants": [
+        {
+          "id": "rs3-8y",
+          "label": "400 PS",
+          "years": "2021-",
+          "engineId": "audi-rs3-8y-400",
+          "gearboxId": "audi-rs3-7dct",
+          "finalDriveRatios": {
+            "value": [4.059, 3.450, 3.450, 4.059, 4.059, 3.450, 3.450],
+            "unit": "ratio",
+            "source": "auto motor und sport 8Y andmed (2021-2022), samad väärtused mis 8V",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 1645,
+            "unit": "kg",
+            "source": "Audi tehniline leht (EU tühimass)",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.70,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.32,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 290, "unit": "km/h", "source": "Audi tehniline leht (lisapakett)", "confidence": "official", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 3.8, "unit": "s", "source": "Audi tehniline leht", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": "Sõltumatu mõõtmine testmassiga 1580 kg, vt data/measurements.json."
+        }
+      ]
+    }
+  ]
+}

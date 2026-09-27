@@ -1,0 +1,80 @@
+{
+  "id": "mercedes-amg-glc63",
+  "mark": "Mercedes-AMG",
+  "model": "GLC 63",
+  "generations": [
+    {
+      "id": "x253",
+      "label": "X253",
+      "years": "2017-2022",
+      "variants": [
+        {
+          "id": "glc63s",
+          "label": "63 S, 510 PS",
+          "years": "2017-2022",
+          "engineId": "amg-m177-63s",
+          "gearboxId": "amg-mct9",
+          "finalDriveRatios": {
+            "value": [3.27, 3.27, 3.27, 3.27, 3.27, 3.27, 3.27, 3.27, 3.27],
+            "unit": "ratio",
+            "source": "esisilla diferentsiaali osanumbrid 2213307100, 2213300702, 2213301802 (varuosakataloog); sama väärtus GT 63 S 4Matic+ ja CLE 53 andmetes",
+            "confidence": "parts_catalog",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 2010,
+            "unit": "kg",
+            "source": "Mercedes pressiandmed, autofreaks.com (EC tühimass)",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.90,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.36,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 280, "unit": "km/h", "source": "Mercedes pressiandmed (AMG Driver's Package)", "confidence": "official", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 3.8, "unit": "s", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": "2019 facelift jõuallikat ei muutnud. auto motor und sport GLC 63 S Coupé andmeleht kontrollimata (sait blokeerib automaatse ligipääsu)."
+        },
+        {
+          "id": "glc63",
+          "label": "63, 476 PS",
+          "years": "2017-2022",
+          "engineId": "amg-m177-63",
+          "gearboxId": "amg-mct9",
+          "finalDriveRatios": {
+            "value": [3.27, 3.27, 3.27, 3.27, 3.27, 3.27, 3.27, 3.27, 3.27],
+            "unit": "ratio",
+            "source": "esisilla diferentsiaali osanumbrid (varuosakataloog), sama käigukastiga sõsarmudelid",
+            "confidence": "parts_catalog",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 2000,
+            "unit": "kg",
+            "source": "Mercedes pressiandmed, autofreaks.com (EC tühimass)",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.90,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.36,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 270, "unit": "km/h", "source": "Mercedes pressiandmed; allikates esineb ka 270 S-mudeli kohta turupõhiselt, kontrollimata", "confidence": "estimate", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 4.0, "unit": "s", "source": "Mercedes pressiandmed", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": "2019 facelift jõuallikat ei muutnud."
+        }
+      ]
+    }
+  ]
+}

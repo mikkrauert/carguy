@@ -1,0 +1,26 @@
+[
+  {
+    "id": "audi-rs3-7dct",
+    "label": "7-käiguline DCT (Audi RS3 8V/8Y, 2011-2022)",
+    "ratios": [3.563, 2.526, 1.679, 1.022, 0.788, 0.761, 0.635],
+    "source": "Audi tehnilised lehed 2011, 2015 (Austraalia), 2017; auto motor und sport 8Y andmed (2021-2022)",
+    "confidence": "official",
+    "retrieved": "2026-09-26"
+  },
+  {
+    "id": "amg-mct9",
+    "label": "AMG Speedshift MCT 9G, 9-käiguline (GLC 63)",
+    "ratios": [5.35, 3.24, 2.25, 1.64, 1.21, 1.00, 0.87, 0.72, 0.60],
+    "source": "auto motor und sport, sama käigukastiga autod (GT 63 S 4-ukseline, GT 63, CLE 53)",
+    "confidence": "press_test",
+    "retrieved": "2026-09-26"
+  },
+  {
+    "id": "zf-8hp-m3",
+    "label": "ZF 8HP, 8-käiguline (BMW M3 Competition xDrive G80)",
+    "ratios": [5.000, 3.200, 2.143, 1.720, 1.313, 1.000, 0.823, 0.640],
+    "source": "BMW pressimaterjal (press.bmwgroup.com)",
+    "confidence": "official",
+    "retrieved": "2026-09-26"
+  }
+]

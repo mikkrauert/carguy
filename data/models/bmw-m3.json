@@ -1,0 +1,87 @@
+{
+  "id": "bmw-m3",
+  "mark": "BMW",
+  "model": "M3 Competition xDrive",
+  "generations": [
+    {
+      "id": "g80",
+      "label": "G80",
+      "years": "2021-2024",
+      "variants": [
+        {
+          "id": "g80",
+          "label": "510 PS",
+          "years": "2021-2024",
+          "engineId": "bmw-s58-510",
+          "gearboxId": "zf-8hp-m3",
+          "finalDriveRatios": {
+            "value": [3.154, 3.154, 3.154, 3.154, 3.154, 3.154, 3.154, 3.154],
+            "unit": "ratio",
+            "source": "BMW pressimaterjal",
+            "confidence": "official",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 1855,
+            "unit": "kg",
+            "source": "tava-M3 1805 kg + xDrive 50 kg (automobile.at)",
+            "confidence": "derived",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.75,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.335,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 290, "unit": "km/h", "source": "BMW pressimaterjal (M Driver's Package)", "confidence": "official", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 3.5, "unit": "s", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": "Sõltumatu mõõtmine (carscoops, GPS): 0-100 3,77 s, 0-200 11,86 s. Vt data/measurements.json."
+        }
+      ]
+    },
+    {
+      "id": "g80-lci",
+      "label": "G80 LCI",
+      "years": "2024-",
+      "variants": [
+        {
+          "id": "g80lci",
+          "label": "530 PS",
+          "years": "2024-",
+          "engineId": "bmw-s58-530",
+          "gearboxId": "zf-8hp-m3",
+          "finalDriveRatios": {
+            "value": [3.154, 3.154, 3.154, 3.154, 3.154, 3.154, 3.154, 3.154],
+            "unit": "ratio",
+            "source": "eeldatud samad mis enne LCI-d, kinnitamata",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "massKg": {
+            "value": 1855,
+            "unit": "kg",
+            "source": "eeldatud sama mis enne LCI-d, kinnitamata",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "cda": {
+            "value": 0.75,
+            "unit": "m2",
+            "source": "hinnang, ametlikku CdA väärtust ei leitud",
+            "confidence": "estimate",
+            "retrieved": "2026-09-26"
+          },
+          "wheelRadiusM": 0.335,
+          "vmaxKmh": { "value": 250, "unit": "km/h", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+          "vmaxOptionKmh": { "value": 290, "unit": "km/h", "source": "BMW pressimaterjal (M Driver's Package)", "confidence": "official", "retrieved": "2026-09-26" },
+          "claimed0to100": { "value": 3.5, "unit": "s", "source": "BMW pressimaterjal", "confidence": "official", "retrieved": "2026-09-26" },
+          "note": "Mass ja käiguvahekorrad eeldatud samad mis enne LCI-d."
+        }
+      ]
+    }
+  ]
+}
